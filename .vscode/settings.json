@@ -1,0 +1,10 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/assets/i18n",
+        "src/app/layout/common/languages",
+        "src/app/layout/common/messages",
+        "src/app/mock-api/common/messages",
+        "src/app/modules/admin/docs/other-components/common/languages",
+        "src/app/modules/admin/docs/other-components/common/messages"
+    ]
+}
